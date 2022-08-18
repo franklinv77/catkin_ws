@@ -1,0 +1,14 @@
+rosdistro: 'noetic
+
+  '
+roslaunch:
+  uris:
+    host_fvolcic_lenovo_yoga_730_13ikb__33263: http://fvolcic-Lenovo-YOGA-730-13IKB:33263/
+rosversion: '1.15.14
+
+  '
+run_id: 7256c404-d08c-11ec-9056-319bbe0a1567
+turtlesim:
+  background_b: 255
+  background_g: 86
+  background_r: 150

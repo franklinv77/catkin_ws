@@ -1,0 +1,7 @@
+string string
+int64[8] int64_arr
+float32 float32
+float64[] float64_arr
+geometry_msgs/Twist twist
+---
+int64 sum

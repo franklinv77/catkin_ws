@@ -1,0 +1,3 @@
+<launch>
+   <node pkg="cosin_wave_datastd_msgs" type="sin.py" name="cos_wave"> </node>  
+</launch> 

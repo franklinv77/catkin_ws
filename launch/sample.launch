@@ -1,0 +1,4 @@
+<launch>
+   <node pkg="add_ints" type="add_two_ints_server.py" name="add_ints_server"> </node>  
+    <node pkg="sin_wave_datastd_msgs" type="sin.py" name="sin_gen"> </node>
+</launch> 
